@@ -1,0 +1,36 @@
+ INFO | 2018-11-12 | 14:02:43 | Aplication start... 
+ERROR | 2018-11-12 | 14:02:43 | StartConDB:java.sql.SQLException: path to 'C:\Users\edatabit\Dropbox\JAVA\PROJEKT_ITC\NETBEANS\ITC\dist\CONF\itc.conf_db': 'C:\Users\edatabit\Dropbox\JAVA\PROJEKT_ITC\NETBEANS\ITC\dist\CONF' does not exist 
+ERROR | 2018-11-12 | 14:02:43 | ReadSNMP: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadStations: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadLicenses: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadStatusView:java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadIDStation: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadSummary: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadMTUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadCMUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadTXUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadRXUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadHPAAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadRCUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadPSUAlarms: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadVoltage: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadPulseShape: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadLastPoll: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadGeneralStatus: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadMTUStatus: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadTXUStatus: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadRXUStatus: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadHPAStatus: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadSummaryThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadVoltageThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadPulseShapeThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadMTUThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadHPAThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadTXUThreshold: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadMRTConfig: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadRCUConfig: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadResetConfig: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | ReadInstConfig: java.lang.NullPointerException 
+ERROR | 2018-11-12 | 14:02:43 | StopConDB:java.lang.NullPointerException 
+ WARN | 2018-11-12 | 14:02:43 | License problem, start registered... 
